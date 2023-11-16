@@ -1,7 +1,6 @@
 # pokemon-game
 
-Esta es el link para acceder a la pagina web 
-willowy-lollipop-23c364.netlify.app
+Esta es el link para acceder a la pagina web https://willowy-lollipop-23c364.netlify.app/
 
 ## Project setup
 ```
